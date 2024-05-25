@@ -1,2 +1,1 @@
-# Simons-game-sa
-Cloning shoukath's files
+# simons-game
